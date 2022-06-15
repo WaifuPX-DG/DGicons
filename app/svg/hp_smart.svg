@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 192.0 192.0"
+	enable-background="new 0 0 192.0 192.0"
+	xml:space="preserve">
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M127.03,84.45L164.94,84.45A6.32 6.32 0 0 1 171.25,90.77L171.25,156.14A6.32 6.32 0 0 1 164.94,162.45L127.03,162.45A6.32 6.32 0 0 1 120.72,156.14L120.72,90.77A6.32 6.32 0 0 1 127.03,84.45z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M55.56,43.46L62.51,29.55L118.16,29.55L126.16,44.30"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M40.04,136.29Q19.98,136.29,20.78,118.24L20.78,66.07Q20.78,50.42,41.65,50.42L145.98,50.42Q158.51,50.42,158.51,71.28"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M48.07,92.15L104.25,92.15"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M104.25,144.32L72.86,144.32Q56.62,144.32,56.82,130.09L56.82,92.15"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M72.96,111.36L96.00,111.36"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M74.51,126.72L94.45,126.72"/>
+</svg>
