@@ -533,8 +533,9 @@
 	<icon drawable="@drawable/pedulilindungi" name="PeduliLindungi" package="com.telkom.tracencare" />
 	<icon drawable="@drawable/personal_safety" name="Personal Safety" package="com.google.android.apps.safetyhub" />
 	<icon drawable="@drawable/phone_manager" package="com.coloros.phonemanager" name="Phone Manager" />
-	<icon drawable="@drawable/photoroom" name="PhotoRoom" package="com.photoroom.app" />
+	<icon drawable="@drawable/photomath" package="com.microblink.photomath" name="Photomath" />
 	<icon drawable="@drawable/photon" name="Photon Camera" package="com.particlesdevs.photoncamera" />
+	<icon drawable="@drawable/photoroom" name="PhotoRoom" package="com.photoroom.app" />
 	<icon drawable="@drawable/photoshop" package="air.com.adobe.pstouchphone" name="Photoshop Touch" />
 	<icon drawable="@drawable/pi" package="com.blockchainvault" name="Pi" />
 	<icon drawable="@drawable/picpay" name="PicPay" package="com.picpay" />
@@ -796,6 +797,7 @@
 	<icon drawable="@drawable/wear_os" name="Wear OS" package="com.google.android.wearable.app" />
 	<icon drawable="@drawable/weather" name="Weather" package="com.miui.weather2" />
 	<icon drawable="@drawable/weather" name="Weather" package="com.coloros.weather2" />
+	<icon drawable="@drawable/weather" name="Weather" package="com.vivo.weather" />
 	<icon drawable="@drawable/webtoon" name="WEBTOON" package="com.naver.linewebtoon" />
 	<icon drawable="@drawable/weverse_shop" name="Weverse Shop" package="co.benx.weply" />
 	<icon drawable="@drawable/whatsapp" name="WhatsApp" package="com.fmwhatsapp" />
@@ -814,6 +816,7 @@
 	<icon drawable="@drawable/xda" name="XDA" package="com.xda.labs.play" />
 	<icon drawable="@drawable/xiaomi_sc" name="Xiaomi SC" package="com.miui.miservice" />
 	<icon drawable="@drawable/xplayer" package="video.player.videoplayer" name="XPlayer" />
+	<icon drawable="@drawable/yandex_music" name="Yandex Music" package="ru.yandex.music" />
 	<icon drawable="@drawable/yasnac" name="YASNAC" package="rikka.safetynetchecker" />
 	<icon drawable="@drawable/yeelight" name="Yeelight" package="com.yeelight.cherry" />
 	<icon drawable="@drawable/ymusic" name="YMusic" package="com.kapp.youtube.final" />
