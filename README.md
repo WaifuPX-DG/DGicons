@@ -1,6 +1,6 @@
 # DGicons
 [![Android](https://img.shields.io/badge/Plataforma-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-26%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms)
-![Stars](https://img.shields.io/github/stars/WaifuPX-DG/DGicons?color=%23ffe8eaf6&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/WaifuPX-DG/DGicons?color=%23ff9575CD&style=for-the-badge)
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/DGicons?style=for-the-badge)](https://github.com/WaifuPX-DG/DGicons/releases/latest)
 
  
