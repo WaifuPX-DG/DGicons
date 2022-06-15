@@ -375,6 +375,7 @@
 	<icon drawable="@drawable/inter" name="Inter" package="br.com.Inter.CDPro" />
 	<icon drawable="@drawable/inware" name="Inware" package="com.evo.inware" />
 	<icon drawable="@drawable/itau" name="Itaú" package="com.itau" />
+	<icon drawable="@drawable/ivy_wallet" name="Ivy_Wallet" package="com.ivy.wallet" />
 	<icon drawable="@drawable/bank_jago" name="Jago" package="com.jago.digitalbanking" />
 	<icon drawable="@drawable/jellyfin" name="Jellyfin" package="org.jellyfin.mobile" />
 	<icon drawable="@drawable/jenius" name="Jenius" package="com.btpn.dc" />
@@ -408,6 +409,7 @@
 	<icon drawable="@drawable/line" name="LINE" package="jp.naver.line.android" />
 	<icon drawable="@drawable/linex" package="com.jndapp.line.x.iconpack" name="LineX Icon Pack" />
 	<icon drawable="@drawable/linkedin" name="LinkedIn" package="com.linkedin.android" />
+	<icon drawable="@drawable/literal" name="Literal Club" package="com.literal" />
 	<icon drawable="@drawable/lsposed" name="LSPosed Manager" package="org.lsposed.manager" />
 	<icon drawable="@drawable/lp" name="Lucky Patcher" package="ru.YbKCoYQH.HRGGCftgu" />
 	<icon drawable="@drawable/macrodroid" package="com.arlosoft.macrodroid" name="Macrodroid" />
@@ -533,6 +535,7 @@
 	<icon drawable="@drawable/pedulilindungi" name="PeduliLindungi" package="com.telkom.tracencare" />
 	<icon drawable="@drawable/personal_safety" name="Personal Safety" package="com.google.android.apps.safetyhub" />
 	<icon drawable="@drawable/phone_manager" package="com.coloros.phonemanager" name="Phone Manager" />
+	<icon drawable="@drawable/phonepe" package="com.phonepe.app" name="PhonePe UPI" />
 	<icon drawable="@drawable/photomath" package="com.microblink.photomath" name="Photomath" />
 	<icon drawable="@drawable/photon" name="Photon Camera" package="com.particlesdevs.photoncamera" />
 	<icon drawable="@drawable/photoroom" name="PhotoRoom" package="com.photoroom.app" />
@@ -729,6 +732,7 @@
 	<icon drawable="@drawable/tapet" package="com.sharpregion.tapet" name="Tapet" />
 	<icon drawable="@drawable/taptap" name="TapTap" package="com.taptap.global" />
 	<icon drawable="@drawable/tasker" name="Tasker" package="net.dinglisch.android.taskerm" />
+	<icon drawable="@drawable/taskito" name="Taskito" package="com.fenchtose.reflog" />
 	<icon drawable="@drawable/team_pixel" package="com.lagguy.teampixelwallpapers" name="TeamPixel Wallpapers" />
 	<icon drawable="@drawable/telegram" name="Telegram" package="org.telegram.messenger" />
 	<icon drawable="@drawable/telegram" name="Telegram" package="org.telegram.messenger.beta" />
@@ -795,6 +799,7 @@
 	<icon drawable="@drawable/wattpad" name="Wattpad" package="wp.wpbeta" />
 	<icon drawable="@drawable/wavy" name="Wavy Walls" package="wavy.walls.droidbeauty.pack" />
 	<icon drawable="@drawable/wear_os" name="Wear OS" package="com.google.android.wearable.app" />
+	<icon drawable="@drawable/weather" name="Weather" package="de.bendix.flux" />
 	<icon drawable="@drawable/weather" name="Weather" package="com.miui.weather2" />
 	<icon drawable="@drawable/weather" name="Weather" package="com.coloros.weather2" />
 	<icon drawable="@drawable/weather" name="Weather" package="com.vivo.weather" />
