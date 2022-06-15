@@ -1,20 +1,5 @@
-
 <?xml version="1.0" encoding="utf-8" ?>
 <icons>
-	<icon drawable="@drawable/browser" name="Browser" package="com.huawei.browser" />
-	<icon drawable="@drawable/shareme" name="ShareMe" package="com.xiaomi.midrop" />
-	<icon drawable="@drawable/files" name="Files" package="com.huawei.hidisk" />
-	<icon drawable="@drawable/microsoft_solitaire" name="Solitaire Klondike" package="com.easybrain.solitaire.klondike.free" />
-	<icon drawable="@drawable/yandex_mail" name="Huawei Mail" package="com.android.email" />
-	<icon drawable="@drawable/coppel" name="BanCoppel" package="mx.com.miapp" />
-	<icon drawable="@drawable/graficos" name="Graficos Vectoriales" package="com.inglesdivino.vectorassetcreator" />
-	<icon drawable="@drawable/emui_updater" name="Huawei Updater" package="com.huawei.android.hwouc" />
-	<icon drawable="@drawable/optimization_huawei" name="Optimizator" package="com.huawei.systemmanager" />
-	<icon drawable="@drawable/xiaomi_sc" name="Huawei Support" package="com.huawei.phoneservice" />
-	<icon drawable="@drawable/miui_music" package="com.android.mediacenter" name="Music MIUI" />
-	<icon drawable="@drawable/apkeditor" name="Apktool M" package="ru.maximoff.apktool" />
-	<icon drawable="@drawable/adm" name="ADM" package="com.dv.adm" />
-	<icon drawable="@drawable/color_palette" name="Color Palette" package="com.apps.offbeat.colorpalette" />
 	<icon drawable="@drawable/onedotonedotonedotone" name="1.1.1.1" package="com.cloudflare.onedotonedotonedotone" />
 	<icon drawable="@drawable/a_1998_cam" name="1998 Cam" package="com.ffffstudio.kojicam" />
 	<icon drawable="@drawable/idm" name="1dm" package="idm.internet.download.manager" />
@@ -27,6 +12,7 @@
 	<icon drawable="@drawable/abstracto" name="Abstracto" package="com.lagguy.abstracto" />
 	<icon drawable="@drawable/accubattery" name="AccuBattery" package="com.digibites.accubattery" />
 	<icon drawable="@drawable/action_dash" name="ActionDash" package="com.actiondash.playstore" />
+	<icon drawable="@drawable/adm" name="ADM" package="com.dv.adm" />
 	<icon drawable="@drawable/adobe_scan" package="com.adobe.scan.android" name="Adobe Scan" />
 	<icon drawable="@drawable/aegis_authenticator" name="Aegis Authenticator" package="com.beemdevelopment.aegis" />
 	<icon drawable="@drawable/aida64" name="AIDA64" package="com.finalwire.aida64" />
@@ -50,10 +36,11 @@
 	<icon drawable="@drawable/antutu" name="AnTuTu Benchmark" package="com.antutu.ABenchMark" />
 	<icon drawable="@drawable/anything_to_pip" name="Anything to PiP" package="com.vitolaminafra.imagetopip" />
 	<icon drawable="@drawable/anywhere" name="Anywhere" package="com.absinthe.anywhere_" />
+	<icon drawable="@drawable/apkeditor" name="Apk Editor" package="com.gmail.heagoo.apkeditor.pro" />
+	<icon drawable="@drawable/apkeditor" name="Apktool M" package="ru.maximoff.apktool" />
 	<icon drawable="@drawable/app_market" name="App Market" package="com.heytap.market" />
 	<icon drawable="@drawable/apps_ops" name="Apps Ops" package="rikka.appops" />
 	<icon drawable="@drawable/appsales" name="AppSales" package="net.tsapps.appsales" />
-	<icon drawable="@drawable/apkeditor" name="Apk Editor" package="com.gmail.heagoo.apkeditor.pro" />
 	<icon drawable="@drawable/apkmirror_installer" name="APKMirror Installer" package="com.apkmirror.helper.prod" />
 	<icon drawable="@drawable/app_manager" name="App Manager" package="io.github.muntashirakon.AppManager" />
 	<icon drawable="@drawable/apple_music" name="Apple Music" package="com.apple.android.music" />
@@ -80,6 +67,7 @@
 	<icon drawable="@drawable/eraser" name="Background Eraser" package="com.handycloset.android.eraser" />
 	<icon drawable="@drawable/banco_azteca" package="mx.com.bancoazteca.bazdigitalmovil" name="Banco Azteca" />
 	<icon drawable="@drawable/banco_estado" package="net.veritran.becl.prod" name="Banco Estado" />
+	<icon drawable="@drawable/coppel" name="BanCoppel" package="mx.com.miapp" />
 	<icon drawable="@drawable/battery_guru" package="com.paget96.batteryguru" name="Battery Guru" />
 	<icon drawable="@drawable/bca_mobile" name="BCA Mobile" package="com.bca" />
 	<icon drawable="@drawable/bgram" name="BGram" package="org.telegram.BifToGram" />
@@ -107,6 +95,7 @@
 	<icon drawable="@drawable/bromite" name="Bromite" package="org.bromite.bromite" />
 	<icon drawable="@drawable/browsec" name="BROWSEC" package="com.browsec.vpn" />
 	<icon drawable="@drawable/browsec" name="BROWSEC" package="com.browsec.vpn.proxy" />
+	<icon drawable="@drawable/browser" name="Browser" package="com.huawei.browser" />
 	<icon drawable="@drawable/browser" name="Browser" package="org.droidtr.jelly" />
 	<icon drawable="@drawable/browser" name="Browser" package="org.lineageos.jelly" />
 	<icon drawable="@drawable/bukalapak" name="Bukalapak" package="com.bukalapak.android" />
@@ -196,6 +185,7 @@
 	<icon drawable="@drawable/coinbase" package="com.coinbase.android" name="Coinbase" />
 	<icon drawable="@drawable/coins_ph" name="Coins.ph" package="asia.coins.mobile" />
 	<icon drawable="@drawable/coinvero" name="Coinvero" package="com.candlestick_app" />
+	<icon drawable="@drawable/color_palette" name="Color Palette" package="com.apps.offbeat.colorpalette" />
 	<icon drawable="@drawable/compass" name="Compass" package="com.miui.compass" />
 	<icon drawable="@drawable/compass" name="Compass" package="com.coloros.compass2" />
 	<icon drawable="@drawable/contacts" name="Contacts" package="com.android.contacts" />
@@ -274,6 +264,7 @@
 	<icon drawable="@drawable/files" name="Files" package="com.coloros.files" />
 	<icon drawable="@drawable/files" name="Files" package="com.coloros.filemanager" />
 	<icon drawable="@drawable/files" name="Files" package="com.google.android.documentsui" />
+	<icon drawable="@drawable/files" name="Files" package="com.huawei.hidisk" />
 	<icon drawable="@drawable/files" name="Files" package="com.oneplus.filemanager" />
 	<icon drawable="@drawable/files" name="Files" package="com.sec.android.app.myfiles" />
 	<icon drawable="@drawable/files" package="com.alphainventor.filemanager" name="Files" />
@@ -357,6 +348,7 @@
 	<icon drawable="@drawable/govee_home" name="Govee Home" package="com.govee.home" />
 	<icon drawable="@drawable/grab" name="Grab" package="com.grabtaxi.passenger" />
 	<icon drawable="@drawable/grab" name="Grab" package="com.grabtaxi.driver2" />
+	<icon drawable="@drawable/graficos" name="Graficos Vectoriales" package="com.inglesdivino.vectorassetcreator" />
 	<icon drawable="@drawable/gtasa" package="com.rockstargames.gtasa" name="GTA SA" />
 	<icon drawable="@drawable/gtaimgtool" package="by.lsdsl.gta.imgtool" name="GTA img tool" />
 	<icon drawable="@drawable/hago" name="Hago" package="com.yy.hiyo" />
@@ -365,6 +357,9 @@
 	<icon drawable="@drawable/hiper" name="HiPER Scientific Calculator" package="cz.hipercalc" />
 	<icon drawable="@drawable/hide_navbar" name="Hide Navbar" package="com.ivianuu.hidenavbar" />
 	<icon drawable="@drawable/hishoot" name="HiShoot2i Material" package="com.hishoot2i" />
+	<icon drawable="@drawable/yandex_mail" name="Huawei Mail" package="com.android.email" />
+	<icon drawable="@drawable/emui_updater" name="Huawei Updater" package="com.huawei.android.hwouc" />
+	<icon drawable="@drawable/xiaomi_sc" name="Huawei Support" package="com.huawei.phoneservice" />
 	<icon drawable="@drawable/bank_wallet" package="com.huntington.m" name="Huntington Bank" />
 	<icon drawable="@drawable/hp_smart" name="HP Smart" package="com.hp.printercontrol" />
 	<icon drawable="@drawable/ibispaint_x" package="jp.ne.ibis.ibispaintx.app" name="ibisPaint X" />
@@ -483,6 +478,7 @@
 	<icon drawable="@drawable/samsung_music" name="Music" package="com.zionhuang.music" />
 	<icon drawable="@drawable/samsung_music" name="Music" package="com.oppo.music" />
 	<icon drawable="@drawable/miui_music" package="com.miui.player" name="Music MIUI" />
+	<icon drawable="@drawable/miui_music" package="com.android.mediacenter" name="Music MIUI" />
 	<icon drawable="@drawable/musicolet" name="Musicolet" package="in.krosbits.musicolet" />
 	<icon drawable="@drawable/muzei" name="Muzei" package="net.nurik.roman.muzei" />
 	<icon drawable="@drawable/mwalls" name="MWalls" package="com.theveloper.mwalls.app" />
@@ -519,6 +515,7 @@
 	<icon drawable="@drawable/openapk" name="Open APK" package="com.dkanada.openapk" />
 	<icon drawable="@drawable/opera_browser" name="Opera Browser" package="com.opera.browser" />
 	<icon drawable="@drawable/opera_gx" name="Opera GX" package="com.opera.gx" />
+	<icon drawable="@drawable/optimization_huawei" name="Optimizator" package="com.huawei.systemmanager" />
 	<icon drawable="@drawable/orbot" name="Orbot" package="org.torproject.android" />
 	<icon drawable="@drawable/osmand" name="OsmAnd" package="net.osmand" />
 	<icon drawable="@drawable/osmand_plus" name="OsmAnd+" package="net.osmand.plus" />
@@ -650,6 +647,7 @@
 	<icon drawable="@drawable/sensor_box" name="Sensor Box" package="imoblife.androidsensorbox" />
 	<icon drawable="@drawable/settings" name="Settings" package="com.android.settings" />
 	<icon drawable="@drawable/settings" name="SetEdit" package="by4a.setedit22" />
+	<icon drawable="@drawable/shareme" name="ShareMe" package="com.xiaomi.midrop" />
 	<icon drawable="@drawable/shazam" name="Shazam" package="com.shazam.android" />
 	<icon drawable="@drawable/smarty" name="SHEIN" package="com.zzkko" />
 	<icon drawable="@drawable/shopee" name="Shopee" package="com.shopee.br" />
@@ -688,6 +686,7 @@
 	<icon drawable="@drawable/snow" name="SNOW" package="com.campmobile.snow" />
 	<icon drawable="@drawable/solid_explorer" name="Solid Explorer" package="pl.solidexplorer2" />
 	<icon drawable="@drawable/microsoft_solitaire" name="Solitaire" package="com.microsoft.microsoftsolitairecollection" />
+	<icon drawable="@drawable/microsoft_solitaire" name="Solitaire Klondike" package="com.easybrain.solitaire.klondike.free" />
 	<icon drawable="@drawable/sonic" name="Sonic" package="com.sega.sonic1px" />
 	<icon drawable="@drawable/sonic" name="Sonic" package="com.sega.sonic2.runner" />
 	<icon drawable="@drawable/sonic" name="Sonic" package="com.sega.sonic4epi" />
