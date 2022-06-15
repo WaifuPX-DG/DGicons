@@ -6,7 +6,7 @@
 	<path
 		android:fillColor="#00FFFFFF"
 		android:strokeColor="#FF000000"
-		android:strokeWidth="10.176"
+		android:strokeWidth="12"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
@@ -14,7 +14,7 @@
 	<path
 		android:fillColor="#00FFFFFF"
 		android:strokeColor="#FF000000"
-		android:strokeWidth="10.176"
+		android:strokeWidth="12"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
