@@ -437,6 +437,7 @@
 	<icon drawable="@drawable/messages" name="Messages" package="com.oneplus.mms" />
 	<icon drawable="@drawable/messages" name="Messages" package="com.android.mms" />
 	<icon drawable="@drawable/messages" name="Messages" package="com.samsung.android.messaging" />
+	<icon drawable="@drawable/messages" name="Messages" package="com.simplemobiletools.smsmessenger" />
 	<icon drawable="@drawable/messenger" name="Messenger" package="com.facebook.mlite" />
 	<icon drawable="@drawable/messenger" name="Messenger" package="com.facebook.orca" />
 	<icon drawable="@drawable/mi_files" name="MI Files" package="com.mi.android.globalFileexplorer" />
@@ -522,6 +523,7 @@
 	<icon drawable="@drawable/osmand" name="OsmAnd" package="net.osmand" />
 	<icon drawable="@drawable/osmand_plus" name="OsmAnd+" package="net.osmand.plus" />
 	<icon drawable="@drawable/oto_music" name="Oto Music" package="com.piyush.music" />
+	<icon drawable="@drawable/otraku" name="Otraku" package="com.otraku.app" />
 	<icon drawable="@drawable/ovinfo" name="OVinfo" package="nl.skywave.ovinfo" />
 	<icon drawable="@drawable/ovo" name="OVO" package="ovo.id" />
 	<icon drawable="@drawable/telegram" name="Owlgram" package="it.owlgram.android" />
@@ -603,6 +605,7 @@
 	<icon drawable="@drawable/quickswitch" package="xyz.paphonb.quickstepswitcher" name="QuickSwitch" />
 	<icon drawable="@drawable/quran" package="com.andi.alquran.urdu" name="Quran" />
 	<icon drawable="@drawable/rabo_wallet" name="Rabo Wallet" package="nl.rabowallet" />
+	<icon drawable="@drawable/rboard" name="Rboard" package="de.dertyp7214.rboardthememanager" />
 	<icon drawable="@drawable/rabobank" name="Rabobank" package="nl.rabomobiel" />
 	<icon drawable="@drawable/radio_miui" package="com.miui.fm" name="Radio" />
 	<icon drawable="@drawable/radio_miui" name="Radio" package="com.huawei.android.FMRadio" />
@@ -782,6 +785,7 @@
 	<icon drawable="@drawable/vimusic" name="ViMusic" package="it.vfsfitvnm.vimusic" />
 	<icon drawable="@drawable/viber" name="Viber" package="com.viber.voip" />
 	<icon drawable="@drawable/viper4android" name="ViPER4Android FX" package="com.pittvandewitt.viperfx" />
+	<icon drawable="@drawable/vpnclientpro" name="VPN Client Pro" package="it.colucciweb.vpnclientpro" />
 	<icon drawable="@drawable/vivaldi" name="Vivaldi" package="com.vivaldi.browser" />
 	<icon drawable="@drawable/vk" package="com.vkontakte.android" name="VK" />
 	<icon drawable="@drawable/vlc" name="VLC" package="org.videolan.vlc" />
