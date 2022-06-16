@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 192.0 192.0"
+	enable-background="new 0 0 192.0 192.0"
+	xml:space="preserve">
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M96.00,20.78C106.83,20.78,115.61,29.56,115.61,40.39C115.61,51.22,106.83,60.00,96.00,60.00C85.17,60.00,76.39,51.22,76.39,40.39C76.39,29.56,85.17,20.78,96.00,20.78z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M155.89,72.12C166.72,72.12,175.49,80.89,175.49,91.72C175.49,102.55,166.72,111.33,155.89,111.33C145.06,111.33,136.28,102.55,136.28,91.72C136.28,80.89,145.06,72.12,155.89,72.12z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M155.89,132.00C166.72,132.00,175.49,140.78,175.49,151.61C175.49,162.44,166.72,171.22,155.89,171.22C145.06,171.22,136.28,162.44,136.28,151.61C136.28,140.78,145.06,132.00,155.89,132.00z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M96.00,132.00C106.83,132.00,115.61,140.78,115.61,151.61C115.61,162.44,106.83,171.22,96.00,171.22C85.17,171.22,76.39,162.44,76.39,151.61C76.39,140.78,85.17,132.00,96.00,132.00z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="12"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M36.11,132.00C46.94,132.00,55.72,140.78,55.72,151.61C55.72,162.44,46.94,171.22,36.11,171.22C25.28,171.22,16.51,162.44,16.51,151.61C16.51,140.78,25.28,132.00,36.11,132.00z"/>
+</svg>
