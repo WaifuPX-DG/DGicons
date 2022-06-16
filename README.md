@@ -4,7 +4,7 @@
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/DGicons?color=%23b597f4&display_name=release&include_prereleases&style=for-the-badge)](https://github.com/WaifuPX-DG/DGicons/releases/latest)
 
  
-![alt text](https://raw.githubusercontent.com/WaifuPX-DG/DGicons/main/Resources/Avatars/utopia.png)
+![alt text](https://raw.githubusercontent.com/WaifuPX-DG/DGicons/main/repo/img/banner_dgicons.jpeg)
 
 **Ir a** 
 
