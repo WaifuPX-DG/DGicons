@@ -143,6 +143,7 @@
 	<icon drawable="@drawable/camera" name="Camera" package="com.android.camera2" />
 	<icon drawable="@drawable/camera" name="Camera" package="com.android.mgc" />
 	<icon drawable="@drawable/camera" name="Camera" package="com.android.MGC" />
+	<icon drawable="@drawable/camera" name="Camera" package="com.android.MGC_8_6_263" />
 	<icon drawable="@drawable/camera" name="Camera" package="com.google.android.GoogleCamera" />
 	<icon drawable="@drawable/camera" name="Camera" package="com.google.android.GoogleCamera.Cameight" />
 	<icon drawable="@drawable/camera" name="Camera" package="com.google.android.GoogleCamera.Urnyx" />
@@ -258,6 +259,7 @@
 	<icon drawable="@drawable/fdroid" name="F-Droid" package="org.fdroid.fdroid" />
 	<icon drawable="@drawable/facebook" name="Facebook" package="com.facebook.katana" />
 	<icon drawable="@drawable/facebook" name="Facebook" package="com.facebook.lite" />
+	<icon drawable="@drawable/facebook" name="Facebook" package="com.creativetrends.folio.app" />
 	<icon drawable="@drawable/facelapse" package="io.skripi.facelapse" name="Facelapse" />
 	<icon drawable="@drawable/fairemail" name="FairEmail" package="eu.faircode.email" />
 	<icon drawable="@drawable/files" name="Files" package="com.android.documentsui" />
