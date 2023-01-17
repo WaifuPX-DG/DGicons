@@ -14,4 +14,4 @@
 
 DGicons as Icon Pack!, it is an adaptive (in shape) and dynamic (takes the dominant color of the current wallpaper) icon pack, Android 12+ is required to work on any Launcher.
 
-**For devices running Android 11 and below, use Lawnchair 12+ or Hyperion Launcher.
+**For devices running Android 11 and below, use Lawnchair 12+ or Hyperion Launcher; And active themed icons option in the launcher settings 
