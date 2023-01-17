@@ -4,7 +4,7 @@
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/DGicons?color=%2392c9b6&display_name=release&include_prereleases&style=for-the-badge)](https://github.com/WaifuPX-DG/DGicons/releases)
 
  
-![alt text](https://raw.githubusercontent.com/WaifuPX-DG/DGicons/main/repo/img/banner_dgicons.jpeg)
+![alt text](https://raw.githubusercontent.com/WaifuPX-DG/DGicons/main/repo/img/banner_dgicons.png)
 
 **Go to Releases:** 
 
