@@ -12,4 +12,5 @@
 
 <p align="vertical"><a href="https://paypal.me/WaifuPX"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/blue.png" width="175"></a></p>
 
-DGicons as Icon Pack!, it is an adaptive (in shape) and dynamic (takes the dominant color of the current wallpaper) icon pack, Android 12+ is required to work on any Launcher. For devices running Android 11 and below, use Lawnchair 12+ or Hyperion Launcher.
+DGicons as Icon Pack!, it is an adaptive (in shape) and dynamic (takes the dominant color of the current wallpaper) icon pack, Android 12+ is required to work on any Launcher.
+##For devices running Android 11 and below, use Lawnchair 12+ or Hyperion Launcher.
